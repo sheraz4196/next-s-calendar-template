@@ -1,7 +1,8 @@
 {
-  "name": "eventcalendar-ui",
+  "name": "sheraz-nextjs-event-calender",
   "version": "0.1.0",
   "private": true,
+  "author": "Sheraz Manzoor",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

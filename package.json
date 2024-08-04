@@ -1,8 +1,14 @@
 {
   "name": "sheraz-nextjs-event-calender",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "author": "Sheraz Manzoor",
+  "keywords": [
+    "nextjs",
+    "event calender",
+    "events management nextjs template"
+  ],
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
